@@ -9,4 +9,5 @@ export default defineNuxtConfig({
     "assets/vendor/swiper/swiper-bundle.min.css",
     "assets/css/style.css",
   ],
+  ssr: false,
 });
