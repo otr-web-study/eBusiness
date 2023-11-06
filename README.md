@@ -37,6 +37,3 @@ Locally preview production build:
 npm run preview
 ```
 
-### The project is published at:
-
-- https://coruscating-malasada-4ff7cb.netlify.app/
